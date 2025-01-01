@@ -12,9 +12,9 @@ Gender Diversity: Male (60%), Female (40%).
 
 Promotion Readiness:
 
--1,398 employees (95.1%) eligible for promotion.
+  -1,398 employees (95.1%) eligible for promotion.
 
--72 employees (4.9%) less likely to be promoted.
+  -72 employees (4.9%) less likely to be promoted.
 
 -Service Years Breakdown: Visualizes workforce experience across 1–10 years.
 
