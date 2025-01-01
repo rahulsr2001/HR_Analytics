@@ -1,10 +1,10 @@
 # HR Dashboard with Power BI
 
-📊 Overview
+## 📊 Overview
 
 This HR Dashboard provides a comprehensive overview of workforce data and key metrics, designed to help HR teams make data-driven decisions efficiently. Built using Power BI and enhanced with DAX (Data Analysis Expressions), the dashboard delivers dynamic, real-time insights into employee statistics, promotion readiness, job levels, and more.
 
-🚀 Features
+## 🚀 Features
 
 Total Employees: 1,470 employees analyzed.
 
@@ -16,15 +16,15 @@ Promotion Readiness:
 
   -72 employees (4.9%) less likely to be promoted.
 
--Service Years Breakdown: Visualizes workforce experience across 1–10 years.
+Service Years Breakdown: Visualizes workforce experience across 1–10 years.
 
--Job Level Analysis: Highlights distribution across 5 job levels.
+Job Level Analysis: Highlights distribution across 5 job levels.
 
--Commute Distance: Categorizes employees as Very Close, Close, or Very Far.
+Commute Distance: Categorizes employees as Very Close, Close, or Very Far.
 
--Employee Status: Tracks active employees and those set for retrenchment.
+Employee Status: Tracks active employees and those set for retrenchment.
 
-🛠️ Technology Used
+## 🛠️ Technology Used
 
 Power BI: For interactive dashboard creation.
 DAX (Data Analysis Expressions): For advanced calculations and real-time insights.
