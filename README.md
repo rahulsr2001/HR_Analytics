@@ -10,10 +10,15 @@ Total Employees: 1,470 employees analyzed.
 Gender Diversity: Male (60%), Female (40%).
 Promotion Readiness:
 -1,398 employees (95.1%) eligible for promotion.
+
 -72 employees (4.9%) less likely to be promoted.
+
 -Service Years Breakdown: Visualizes workforce experience across 1–10 years.
+
 -Job Level Analysis: Highlights distribution across 5 job levels.
+
 -Commute Distance: Categorizes employees as Very Close, Close, or Very Far.
+
 -Employee Status: Tracks active employees and those set for retrenchment.
 
 🛠️ Technology Used
