@@ -27,8 +27,10 @@ Employee Status: Tracks active employees and those set for retrenchment.
 ## 🛠️ Technology Used
 
 Power BI: For interactive dashboard creation.
+
 DAX (Data Analysis Expressions): For advanced calculations and real-time insights.
-📂 Files
+
+## 📂 Files
 
 Dashboard Report: Contains visualizations and metrics.
 
