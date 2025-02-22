@@ -3,7 +3,7 @@
 ## 📊 Overview
 
 This HR Dashboard provides a comprehensive overview of workforce data and key metrics, designed to help HR teams make data-driven decisions efficiently. Built using Power BI and enhanced with DAX (Data Analysis Expressions), the dashboard delivers dynamic, real-time insights into employee statistics, promotion readiness, job levels, and more.
-
+![Image](https://github.com/user-attachments/assets/b2c7c711-0000-4941-adae-0c3646a35091)
 ## Key Insights:
 ### ✅ Total Employees & Gender Distribution
 
