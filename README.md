@@ -4,25 +4,46 @@
 
 This HR Dashboard provides a comprehensive overview of workforce data and key metrics, designed to help HR teams make data-driven decisions efficiently. Built using Power BI and enhanced with DAX (Data Analysis Expressions), the dashboard delivers dynamic, real-time insights into employee statistics, promotion readiness, job levels, and more.
 
-## 🚀 Features
+## Key Insights:
+### ✅ Total Employees & Gender Distribution
 
-Total Employees: 1,470 employees analyzed.
+Displays the total number of employees (1,470)
 
-Gender Diversity: Male (60%), Female (40%).
+Breakdown by gender: 60% Male (882), 40% Female (588)
 
-Promotion Readiness:
+### ✅ Promotion Eligibility
 
-  -1,398 employees (95.1%) eligible for promotion.
+1,398 employees (95.1%) are not due for promotion
 
-  -72 employees (4.9%) less likely to be promoted.
+72 employees (4.9%) are eligible for promotion
 
-Service Years Breakdown: Visualizes workforce experience across 1–10 years.
+### ✅ Service Year Breakdown
 
-Job Level Analysis: Highlights distribution across 5 job levels.
+Employees categorized by their years of service
 
-Commute Distance: Categorizes employees as Very Close, Close, or Very Far.
+Highest count: 5 years (196 employees)
 
-Employee Status: Tracks active employees and those set for retrenchment.
+### ✅ Job Level Distribution
+
+Employees segmented across five job levels
+
+Most employees are in Level 1 (543) and Level 2 (534)
+
+### ✅ Attrition & Retrenchment Analysis
+
+-**Attrition Rate:** 16% of employees have left
+-**On Service:** 1,353 employees are still active
+-**Employees to be Retrenched:** 117
+
+### ✅ Commute Distance Analysis
+
+Employees classified based on travel distance:
+
+Very Close: 63.95% (940 employees)
+
+Close: 20.48% (301 employees)
+
+Very Far: 15.58% (229 employees)
 
 ## 🛠️ Technology Used
 
