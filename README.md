@@ -32,7 +32,9 @@ Most employees are in Level 1 (543) and Level 2 (534)
 ### ✅ Attrition & Retrenchment Analysis
 
 -**Attrition Rate:** 16% of employees have left
+
 -**On Service:** 1,353 employees are still active
+
 -**Employees to be Retrenched:** 117
 
 ### ✅ Commute Distance Analysis
